@@ -1,5 +1,5 @@
 //ADD YOUR API KEY HERE 
-const api_key = "b6db090b390427"
+const api_key = "ADD-YOUR-API-KEY"
 
 // Add these variables at the top
 const targetCountries = ['US', 'GB']; // Add your preferred country codes
